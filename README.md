@@ -6,6 +6,9 @@ A data analytics project focused on cleaning, transforming, and engineering cust
 
 ## 📖 Project Overview
 
+## Dataset Preview
+
+![Dataset](https://github.com/Kunalthakur01/Smart_cart_project/blob/main/dataset.png?raw=true)
 Customer data is one of the most valuable assets for modern businesses.
 
 This project analyzes SmartCart customer data and performs:
@@ -62,6 +65,10 @@ Features include:
 Imported customer dataset using Pandas.
 ### 2. Data Cleaning
 Identified missing values.
+
+## Missing Values
+
+![Missing Values](https://github.com/Kunalthakur01/Smart_cart_project/blob/main/null%20values.png?raw=true)
 Found missing values in:
 - Income
 Handled using median imputation.
@@ -119,6 +126,10 @@ Analyzed:
 - Total Children
 
 ---
+## Feature Relationships
+
+![Pair Plot](https://github.com/Kunalthakur01/Smart_cart_project/blob/main/pair%20polt.png?raw=true)
+![Pair Plot](https://github.com/Kunalthakur01/Smart_cart_project/blob/main/pair%20plol1.png?raw=true)
 
 ## 📂 Project Structure
 
@@ -170,7 +181,13 @@ The processed dataset can be used for:
 
 ---
 
+## HeatMap
 
+![Heat Map](https://github.com/Kunalthakur01/Smart_cart_project/blob/main/Heatmap.png?raw=true)
+
+##3D projection
+
+![3D projection](https://github.com/Kunalthakur01/Smart_cart_project/blob/main/3D%20projection.png?raw=true)
 ## 👨‍💻 Author
 
 **Kunal Singh**
